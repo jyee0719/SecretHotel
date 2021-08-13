@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702582744859",
+    "project_id": "secret-hotel-66610",
+    "storage_bucket": "secret-hotel-66610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702582744859:android:593ce96670c5d13e5d55be",
+        "android_client_info": {
+          "package_name": "my.edu.utar.secrethotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702582744859-qb03j0e95gcoppu8ertihl7bc0rmpur5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKwChDyUBmbdmL2idYfMM31DuqHTihyog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702582744859-qb03j0e95gcoppu8ertihl7bc0rmpur5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
