@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Secret Hotel</string>
+    <string name ="firebase_key" translatable="false">AIzaSyDaHxkrULkY6UgncfOLjHu9GFt-Pzovd1Y</string>
 </resources>
